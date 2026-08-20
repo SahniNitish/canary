@@ -10,7 +10,7 @@ readme = "README.md"
 license = { text = "MIT" }
 authors = [{ name = "Nitish Sahni" }]
 requires-python = ">=3.11"
-# Dependencies: standard library only. Every addition must be justified (CLAUDE.md §8).
+# Dependencies: standard library only. Every addition must be justified.
 # The bdata CLI performs all network I/O; the health engine makes zero network calls.
 dependencies = []
 

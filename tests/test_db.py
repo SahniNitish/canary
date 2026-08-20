@@ -45,7 +45,7 @@ def test_invalid_status_is_rejected(conn):
 
 
 def test_empty_and_failed_runs_are_distinguishable(conn):
-    """An absent/empty run must never be confused with a failed one (CLAUDE.md §5)."""
+    """An absent/empty run must never be confused with a failed one."""
     empty_id = db.insert_run(conn, _run(status=models.RUN_EMPTY, row_count=0))
     failed_id = db.insert_run(conn, _run(status=models.RUN_FAILED, row_count=None))
     # A failed run writes NO records; an empty run also has none but is a different status.

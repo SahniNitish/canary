@@ -1,4 +1,4 @@
-"""Thresholds and field contracts — the one place tuning lives (CLAUDE.md §6).
+"""Thresholds and field contracts — the one place tuning lives.
 
 Two kinds of knobs live here:
 
@@ -57,7 +57,7 @@ class FieldContract:
 SOURCE = "ikea"
 RECALL_KEY_FIELD = "source_url"
 
-# Pinned collector (mirror of CLAUDE.md). Not a secret; overridable via --collector / env.
+# Pinned collector. Not a secret; overridable via --collector / env.
 COLLECTOR_ID = "c_mt07a4h921tnzr8kvt"
 
 # Human-readable "what this field should be", woven into heal prompts. Optional per field.

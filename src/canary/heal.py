@@ -1,6 +1,6 @@
 """Turn a fired signal into a *specific* heal prompt for `bdata scraper heal`.
 
-The quality bar (CLAUDE.md §6): name the field, the coverage before/after, the expected
+The quality bar: name the field, the coverage before/after, the expected
 shape, and an example URL — and stay under the CLI's hard 1000-character cap. Vague prompts
 ("the scraper is broken") produce vague heals; over-long prompts get truncated or refused.
 

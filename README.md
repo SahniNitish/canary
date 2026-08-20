@@ -37,5 +37,4 @@ The closed loop is the product.
 
 ## AI disclosure (rule 10)
 
-Built with AI assistance (Claude Code); the plan was reviewed by two independent AI critics
-(Grok, Codex). Every file is human-reviewed and explainable. See `DECISIONS.md`.
+Built with AI assistance (Claude Code); every file is human-reviewed and explainable.

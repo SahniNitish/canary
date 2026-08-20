@@ -11,7 +11,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Any, Optional
 
-# --- Run status domain (CLAUDE.md §5). An absent run must differ from a failed run. ---
+# --- Run status domain. An absent run must differ from a failed run. ---
 RUN_OK = "ok"          # collector returned a healthy row set
 RUN_EMPTY = "empty"    # HTTP 200 with []  -> raise a signal, serve last-known-good
 RUN_PARTIAL = "partial"  # rows present, but a required field fell below its contract

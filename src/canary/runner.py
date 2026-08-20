@@ -52,7 +52,7 @@ def ingest_records(
 ) -> Run:
     """Persist one immutable run from raw collector output. Returns the stored Run.
 
-    Status rules (CLAUDE.md §7):
+    Status rules:
       * no input rows at all            -> empty
       * rows present but all errored    -> failed  (writes NO records)
       * otherwise                       -> ok / partial / empty via field contracts
