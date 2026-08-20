@@ -1,4 +1,6 @@
-# Canary 🐤
+<p align="center">
+  <img src="assets/banner.png" alt="Canary — a broken scraper does not crash. It lies." width="820">
+</p>
 
 **A broken scraper does not crash. It lies.** It still returns 200, the dashboard still loads, and
 nobody notices a field stopped extracting — until someone searches recalls by article number, gets
