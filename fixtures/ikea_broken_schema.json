@@ -1,0 +1,70 @@
+[
+  {
+    "title": "IKEA Recalls KULLEN 3 Drawer Chest Due to Tip-Over/ Entrapment Hazards",
+    "product_name": "KULLEN 3 Drawer Chest",
+    "article_numbers": [
+      "501.637.54",
+      "803.221.34",
+      "600.930.58"
+    ],
+    "hazard": "IKEA is voluntarily recalling KULLEN 3 drawer chest in birch and black/brown. The chest is unstable if it is not anchored to the wall, posing tip over and entrapment hazards.",
+    "sold_period": "April 2005 - December 2019",
+    "retail_price": {
+      "value": 59.99,
+      "currency": "USD",
+      "symbol": "$"
+    },
+    "contact_phone": "888-966-4532",
+    "source_url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-kullen-3-drawer-chest-due-to-tip-over-entrapment-hazards-pub2873352c/",
+    "input": {
+      "url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-kullen-3-drawer-chest-due-to-tip-over-entrapment-hazards-pub2873352c/"
+    }
+  },
+  {
+    "article_numbers": [],
+    "hazard": "IKEA is announcing a voluntary recall of the IKEA 365+ V\u00c4RDEFULL garlic press, article 305.781.89 only, for units sold from March 2024- May 2025. Small metal pieces can detach from the garlic press posing a laceration or ingestion risk.",
+    "source_url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-the-ikea-365-vaerdefull-garlic-press-due-to-laceration-and-ingestion-risk-pub1c66cca0/",
+    "input": {
+      "url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-the-ikea-365-vaerdefull-garlic-press-due-to-laceration-and-ingestion-risk-pub1c66cca0/"
+    }
+  },
+  {
+    "title": "IKEA recalls certain VARMFRONT Power Banks due to fire hazard",
+    "product_name": "certain VARMFRONT Power Banks",
+    "article_numbers": [],
+    "hazard": "IKEA is announcing a voluntary recall of certain VARMFRONT power banks. Due to a manufacturing issue the power banks can overheat, posing a fire hazard.",
+    "contact_phone": "888-966-4532",
+    "source_url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-certain-varmfront-power-banks-due-to-fire-hazard-pub6300f000/",
+    "input": {
+      "url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-certain-varmfront-power-banks-due-to-fire-hazard-pub6300f000/"
+    }
+  },
+  {
+    "title": "IKEA recalls \u00c5SKSTORM USB charger due to burn and electric shock hazard",
+    "product_name": "\u00c5SKSTORM USB charger",
+    "article_numbers": [],
+    "hazard": "IKEA is announcing a voluntary recall of the \u00c5SKSTORM 40W USB Charger. The recalled USB charger\u2019s cable can become damaged or break over time, posing burn and electric shock hazards.",
+    "source_url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-askstorm-usb-charger-due-to-burn-and-electric-shock-hazard-pubdb6c8030/",
+    "input": {
+      "url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-askstorm-usb-charger-due-to-burn-and-electric-shock-hazard-pubdb6c8030/"
+    }
+  },
+  {
+    "article_numbers": [],
+    "hazard": "In 2016, we recalled 17.3 million chests and dressers due to the risk of tip-over accidents.",
+    "source_url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-chest-and-dresser-safety-recall-pub4b96e3c0/",
+    "input": {
+      "url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-chest-and-dresser-safety-recall-pub4b96e3c0/"
+    }
+  },
+  {
+    "title": "IKEA recalls BL\u00c5VINGAD fishing game due to choking hazard.",
+    "product_name": "BL\u00c5VINGAD fishing game",
+    "article_numbers": [],
+    "hazard": "IKEA is announcing a voluntary recall of the BL\u00c5VINGAD fishing game. A small metal rivet on the wooden play piece can come loose, posing a choking hazard.",
+    "source_url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-blavingad-fishing-game-due-to-choking-hazard-pub22fa03d0/",
+    "input": {
+      "url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-blavingad-fishing-game-due-to-choking-hazard-pub22fa03d0/"
+    }
+  }
+]

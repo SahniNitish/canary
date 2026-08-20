@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "canary"
+version = "0.1.0"
+description = "A supervision layer that proves a Bright Data recall scraper is still telling the truth."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Nitish Sahni" }]
+requires-python = ">=3.11"
+# Dependencies: standard library only. Every addition must be justified (CLAUDE.md §8).
+# The bdata CLI performs all network I/O; the health engine makes zero network calls.
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+canary = "canary.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+# Health engine tests must run with no network access.
+addopts = "-q"

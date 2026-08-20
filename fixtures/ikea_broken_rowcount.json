@@ -1,0 +1,33 @@
+[
+  {
+    "title": "IKEA Recalls KULLEN 3 Drawer Chest Due to Tip-Over/ Entrapment Hazards",
+    "product_name": "KULLEN 3 Drawer Chest",
+    "article_numbers": [
+      "501.637.54",
+      "803.221.34",
+      "600.930.58"
+    ],
+    "hazard": "IKEA is voluntarily recalling KULLEN 3 drawer chest in birch and black/brown. The chest is unstable if it is not anchored to the wall, posing tip over and entrapment hazards.",
+    "remedy": "Customers that have a KULLEN 3 drawer chest, that is not properly anchored to the wall, are urged to stop using it and place it in an area that children cannot access. If you have a recalled chest, please contact IKEA for a choice between two options: a refund or a free wall-attachment kit. Customers can order a free wall-attachment repair kit for self-installation or IKEA will provide a one-time, free in-home installation service. IKEA will accept in-store returns or arrange for a free pick up of the chests for a refund. Proof of purchase (receipt) is not required. To participate in the recall, please click here .",
+    "sold_period": "April 2005 - December 2019",
+    "retail_price": {
+      "value": 59.99,
+      "currency": "USD",
+      "symbol": "$"
+    },
+    "contact_phone": "888-966-4532",
+    "source_url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-kullen-3-drawer-chest-due-to-tip-over-entrapment-hazards-pub2873352c/",
+    "input": {
+      "url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-kullen-3-drawer-chest-due-to-tip-over-entrapment-hazards-pub2873352c/"
+    }
+  },
+  {
+    "article_numbers": [],
+    "hazard": "IKEA is announcing a voluntary recall of the IKEA 365+ V\u00c4RDEFULL garlic press, article 305.781.89 only, for units sold from March 2024- May 2025. Small metal pieces can detach from the garlic press posing a laceration or ingestion risk.",
+    "remedy": "Small metal pieces can detach from the garlic press posing a laceration or ingestion risk. Consumers should immediately stop using the product and return to any IKEA store for a full refund. Affected recalled product can be identified by a marking of the IKEA logo on the upper handle of the product. If you are unable to return to a store, please contact us for instructions on how to dispose of confirmed recalled product to receive a full refund. Proof of purchase (receipt) is not required to receive a full refund.",
+    "source_url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-the-ikea-365-vaerdefull-garlic-press-due-to-laceration-and-ingestion-risk-pub1c66cca0/",
+    "input": {
+      "url": "https://www.ikea.com/us/en/customer-service/product-support/recalls/ikea-recalls-the-ikea-365-vaerdefull-garlic-press-due-to-laceration-and-ingestion-risk-pub1c66cca0/"
+    }
+  }
+]

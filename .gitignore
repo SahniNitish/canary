@@ -1,0 +1,25 @@
+# Secrets — never commit
+.env
+*.token
+
+# Runtime data (SQLite lives here; provide `canary init-db` in README instead)
+data/
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# NOTE: fixtures/ and examples/ are intentionally NOT ignored — they are the proof.
